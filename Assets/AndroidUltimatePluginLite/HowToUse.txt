@@ -1,0 +1,81 @@
+================================================================================================================================
+                                                Android Ultimate Plugin
+================================================================================================================================
+
+
+an  Android Plugin for Unity3d that will help you access features on Android devices with in unity3d.
+This plugin will speeds up your work and saves a lot of time compare on creating your own plugin which requires learning
+,researching, coding and testing on how to make things work.
+
+
+
+================================================================================================================================
+                                                How to use
+================================================================================================================================
+
+1. make sure you have downloaded Android SDK from this website
+https://developer.android.com/sdk/index.html
+
+2. after downloading Android SDK locate the google play library folder on the SDK directory "SDK_ROOT_Directory/extras/google/google_play_services/libproject"
+and then copy the google-play-services_lib to your Unity3d Project Directory "Assets/Plugins/Android"
+
+3. Copy the Android Manifest file that can be find at "Assets/Plugins/Android/SampleAndroidManifest"
+and paste it on "Assets/Plugins/Android" directory this is the most tricky part without doing this nothing will happen
+or your application might crashed or stop.
+
+4. Inside Unity3d go to File Menu, Build Settings and then select player settings and look for other settings
+and change the bundle indentifier to your game or app bundle identifier for ex. com.mycoolstudio.awesomegame
+
+5. Inside Unity3d in your Project hierarchy go to "Assets/AndroidUltimatePlugin/Scenes" and open the Demo scene
+
+6. Inside Unity3d go to File Menu, Build Settings and then make sure that you added Demo Scene on Scenes in Build on building settings
+if it's already added then its ready.
+
+7. Inside Unity3d go to File Menu, Build Settings and then select Build and Run
+
+8. wait for the build and then check the application if everything is working fine and that's it.
+
+
+
+================================================================================================================================
+                                                List of Features
+================================================================================================================================
+
+
+List of Features:
+
+1. Local Notification
+2. Screenshot and Share Image
+3. Share Text or URL
+4. Immersive Full Screen Mode
+5.Native Android UI Loading
+6. Native Android Rate US Popup
+7. Native Android Alert Popup
+8. Native Android Toast Message
+
+Note: Does not extend UnityPlayerActivity
+
+
+================================================================================================================================
+                                                More Information
+================================================================================================================================
+
+
+For more Details:
+http://www.gigadrillgames.com/android-ultimate-plugin/
+
+For Tutorials
+http://www.gigadrillgames.com/2015/07/26/list-of-tutorials-for-android-ultimate-plugin/
+
+For Frequently Asked Questions
+http://www.gigadrillgames.com/2015/07/29/faq-android-ultimate-plugin/
+
+For Forums Questions and answers
+http://www.gigadrillgames.com/questions/
+
+================================================================================================================================
+                                                Contacts
+================================================================================================================================
+
+
+For questions or suggestions or any feedback just contact us at gigadrillgames@gmail.com

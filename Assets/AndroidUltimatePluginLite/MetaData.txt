@@ -1,0 +1,36 @@
+an  Android Plugin for Unity3d that will help you access features on Android devices with in unity3d.<br><br>
+
+This plugin will speeds up your work and saves a lot of time compare on creating your own plugin which requires learning, researching, coding and testing on how to make things work.<br><br>
+
+<STRONG>Note:</STRONG> this is a Lite Version of Android Ultimate Plugin for you to test, before buying the paid version.<br><br>
+
+<STRONG>Paid version has more features that's why we recommend you to buy it.</STRONG><br><br>
+
+<STRONG>List of Features:</STRONG><br><br>
+
+1. Local Notification<br>
+2. Screenshot and Share Image<br>
+3. Share Text or URL<br>
+4. Immersive Full Screen Mode<br>
+5.Native Android UI Loading<br>
+6. Native Android Rate US Popup<br>
+7. Native Android Alert Popup<br>
+8. Native Android Toast Message<br><br>
+
+<STRONG>Note: Does not extend UnityPlayerActivity</STRONG><br><br>
+
+<STRONG>For more Information:</STRONG><br>
+
+<p><a href="http://www.gigadrillgames.com/android-ultimate-plugin/">http://www.gigadrillgames.com/android-ultimate-plugin/</a><br><br>
+
+<STRONG>For Tutorials:</STRONG><br>
+
+<p><a href="http://www.gigadrillgames.com/2015/07/26/list-of-tutorials-for-android-ultimate-plugin/">http://www.gigadrillgames.com/2015/07/26/list-of-tutorials-for-android-ultimate-plugin/</a><br><br>
+
+<STRONG>Frequently Asked Questions:</STRONG><br>
+
+<p><a href="http://www.gigadrillgames.com/2015/07/29/faq-android-ultimate-plugin/">http://www.gigadrillgames.com/2015/07/29/faq-android-ultimate-plugin/</a><br><br>
+
+<STRONG>For questions or suggestions or any feedback just contact us by email</STRONG> <br>
+
+<p><a href="mailto:gigadrillgames@gmail.com">gigadrillgames@gmail.com</a><br>
