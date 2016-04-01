@@ -17,13 +17,15 @@ public class PreviewAndSave : MonoBehaviour {
 	public AndroidNativeUIDemo AND;
 	public bool isSave = false;
 	public string path;
+	public GIGI gigi;
+	public GIGI banner;
 
 
 	void Start()
 	{
 		snapShot = GameObject.FindObjectOfType<CaptureAndSave>();
 		takeButton.SetActive(true);
-		retakeButton.SetActive(false);
+		//retakeButton.SetActive(false);
 		shareButton.SetActive(false);
 		saveButton.SetActive(false);
 	}
@@ -99,8 +101,9 @@ public class PreviewAndSave : MonoBehaviour {
 		previewer.gameObject.SetActive(false);
 		shareButton.SetActive(false);
 		takeButton.SetActive(true);
-		retakeButton.SetActive(false);
+		//retakeButton.SetActive(false);
 		saveButton.SetActive(false);
 		camera.enabled = true;
+
 	}
 }
